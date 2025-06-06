@@ -1,10 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { ToastContainer } from 'react-toastify'
 import { useState, useEffect } from 'react'
-import HomePage from '@/components/pages/HomePage'
+import HomePage from '../@/components/pages/HomePage'
 import NotFound from './pages/NotFound'
 import 'react-toastify/dist/ReactToastify.css'
-
 function App() {
   const [darkMode, setDarkMode] = useState(() => {
     const stored = localStorage.getItem('darkMode')
