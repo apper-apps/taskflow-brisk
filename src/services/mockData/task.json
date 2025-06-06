@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "title": "Review quarterly reports",
+    "description": "Analyze Q3 performance metrics and prepare summary for board meeting",
+    "dueDate": "2024-01-20",
+    "priority": "high",
+    "category": "Work",
+    "completed": false,
+    "createdAt": "2024-01-15T10:30:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "2",
+    "title": "Grocery shopping",
+    "description": "Buy ingredients for weekend dinner party - salmon, vegetables, wine",
+    "dueDate": "2024-01-18",
+    "priority": "medium",
+    "category": "Personal",
+    "completed": true,
+    "createdAt": "2024-01-14T09:15:00Z",
+    "completedAt": "2024-01-17T14:22:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Design system documentation",
+    "description": "Create comprehensive documentation for the new design system components",
+    "dueDate": "2024-01-25",
+    "priority": "high",
+    "category": "Work",
+    "completed": false,
+    "createdAt": "2024-01-12T16:45:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "4",
+    "title": "Book dentist appointment",
+    "description": "Schedule routine cleaning and checkup for next month",
+    "dueDate": "2024-01-19",
+    "priority": "low",
+    "category": "Health",
+    "completed": false,
+    "createdAt": "2024-01-13T11:20:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "5",
+    "title": "Complete React course",
+    "description": "Finish the advanced React patterns module and submit final project",
+    "dueDate": "2024-01-30",
+    "priority": "medium",
+    "category": "Learning",
+    "completed": false,
+    "createdAt": "2024-01-10T08:30:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "6",
+    "title": "Prepare presentation slides",
+    "description": "Create slides for client pitch meeting on new product features",
+    "dueDate": "2024-01-22",
+    "priority": "high",
+    "category": "Work",
+    "completed": false,
+    "createdAt": "2024-01-16T13:15:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "7",
+    "title": "Call insurance company",
+    "description": "Update auto insurance policy and review coverage options",
+    "dueDate": "2024-01-17",
+    "priority": "medium",
+    "category": "Personal",
+    "completed": true,
+    "createdAt": "2024-01-11T15:40:00Z",
+    "completedAt": "2024-01-16T10:55:00Z"
+  },
+  {
+    "id": "8",
+    "title": "Morning workout routine",
+    "description": "30-minute cardio session followed by strength training",
+    "dueDate": "2024-01-18",
+    "priority": "low",
+    "category": "Health",
+    "completed": true,
+    "createdAt": "2024-01-17T06:00:00Z",
+    "completedAt": "2024-01-17T07:15:00Z"
+  },
+  {
+    "id": "9",
+    "title": "Read design thinking book",
+    "description": "Continue reading 'The Design of Everyday Things' - Chapter 5",
+    "dueDate": "2024-01-26",
+    "priority": "low",
+    "category": "Learning",
+    "completed": false,
+    "createdAt": "2024-01-14T20:30:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "10",
+    "title": "Team standup meeting",
+    "description": "Weekly team sync to discuss project progress and blockers",
+    "dueDate": "2024-01-19",
+    "priority": "medium",
+    "category": "Work",
+    "completed": false,
+    "createdAt": "2024-01-15T12:00:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "11",
+    "title": "Plan weekend trip",
+    "description": "Research hiking trails and book accommodation for mountain getaway",
+    "dueDate": "2024-01-21",
+    "priority": "low",
+    "category": "Personal",
+    "completed": false,
+    "createdAt": "2024-01-13T18:45:00Z",
+    "completedAt": null
+  },
+  {
+    "id": "12",
+    "title": "Update portfolio website",
+    "description": "Add latest projects and refresh the about section with new bio",
+    "dueDate": "2024-01-28",
+    "priority": "medium",
+    "category": "Work",
+    "completed": false,
+    "createdAt": "2024-01-12T14:20:00Z",
+    "completedAt": null
+  }
+]

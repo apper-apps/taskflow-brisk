@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Work",
+    "color": "#3B82F6",
+    "taskCount": 5
+  },
+  {
+    "id": "2",
+    "name": "Personal",
+    "color": "#10B981",
+    "taskCount": 3
+  },
+  {
+    "id": "3",
+    "name": "Health",
+    "color": "#F59E0B",
+    "taskCount": 2
+  },
+  {
+    "id": "4",
+    "name": "Learning",
+    "color": "#8B5CF6",
+    "taskCount": 2
+  },
+  {
+    "id": "5",
+    "name": "Finance",
+    "color": "#EF4444",
+    "taskCount": 0
+  },
+  {
+    "id": "6",
+    "name": "Shopping",
+    "color": "#06B6D4",
+    "taskCount": 0
+  },
+  {
+    "id": "7",
+    "name": "Family",
+    "color": "#EC4899",
+    "taskCount": 0
+  },
+  {
+    "id": "8",
+    "name": "Hobbies",
+    "color": "#84CC16",
+    "taskCount": 0
+  }
+]
