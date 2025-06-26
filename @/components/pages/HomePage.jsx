@@ -1,15 +1,14 @@
-import { useState, useEffect } from 'react'
-      import { motion } from 'framer-motion'
-      import { toast } from 'react-toastify'
-      import { taskService } from '@/services'
-      import Header from '@/components/organisms/Header'
-      import ProgressCard from '@/components/organisms/ProgressCard'
-      import TaskSidebar from '@/components/organisms/TaskSidebar'
-      import AddTaskForm from '@/components/organisms/AddTaskForm'
-      import TaskList from '@/components/organisms/TaskList'
-      import NoTasksMessage from '@/components/organisms/NoTasksMessage'
-      import Icon from '@/components/atoms/Icon'
-      
+import React, { useEffect, useState } from "react";
+import { motion } from "framer-motion";
+import { toast } from "react-toastify";
+import TaskSidebar from "@/components/organisms/TaskSidebar";
+import ProgressCard from "@/components/organisms/ProgressCard";
+import Header from "@/components/organisms/Header";
+import AddTaskForm from "@/components/organisms/AddTaskForm";
+import NoTasksMessage from "@/components/organisms/NoTasksMessage";
+import TaskList from "@/components/organisms/TaskList";
+import Icon from "@/components/atoms/Icon";
+import { taskService } from "@/services/index";
       const HomePage = ({ darkMode, setDarkMode }) => {
         const [tasks, setTasks] = useState([])
         const [loading, setLoading] = useState(false)
@@ -192,7 +191,7 @@ import { useState, useEffect } from 'react'
                       </div>
                     </motion.button>
       
-                    <AddTaskForm
+<AddTaskForm
                       showAddForm={showAddForm}
                       setShowAddForm={setShowAddForm}
                       formData={formData}
